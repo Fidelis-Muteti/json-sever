@@ -1,0 +1,76 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2020,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2024-toyota-camry-102-64cbc4858e198.jpg?crop=0.544xw:0.461xh;0.293xw,0.234xh&resize=2048:*",
+      "price": 24000
+    },
+    {
+      "id": "2",
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2019,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjhY11KH4KE6TNJKvuhp46e7Kky2sTh4VNKg&s",
+      "price": 20000
+    },
+    {
+      "id": "3",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2021,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1KB9dzJcKS5Be9bkV86ClgrzUI1WC5aNKoQ&s",
+      "price": 35000
+    },
+    {
+      "id": "4",
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": 2018,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd1vSdCF4zpkHabB15iuBIfe5-ZYtj6Y46Ew&s",
+      "price": 18000
+    },
+    {
+      "id": "5",
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2022,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkiwO0peEoONAUd1GwwqR2WzMbgPw3XL95A&s",
+      "price": 42000
+    },
+    {
+      "id": "6",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2021,
+      "image": "https://ymimg1.b8cdn.com/resized/article/5955/pictures/4283405/listing_main_Mercedes_Benz__C_Class__1_.jpg",
+      "price": 43000
+    },
+    {
+      "id": "7",
+      "make": "Audi",
+      "model": "A4",
+      "year": 2020,
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg",
+      "price": 41000
+    },
+    {
+      "id": "6090",
+      "make": "porche",
+      "model": "cayenne",
+      "year": 2016,
+      "image": "https://imgd.aeplcdn.com/272x153/n/cw/ec/32951/cayenne-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+      "price": 560000
+    },
+    {
+      "id": "a817",
+      "make": "porche",
+      "model": "cayenne",
+      "year": 2013,
+      "image": "https://imgd.aeplcdn.com/272x153/n/cw/ec/32951/cayenne-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+      "price": 45000
+    }
+  ]
+}
